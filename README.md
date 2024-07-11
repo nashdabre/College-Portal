@@ -12,8 +12,8 @@ The College Portal Project is designed to streamline educational activities by p
 5. Admin Panel: Teachers/administrators can manage notes, quizzes, videos, lessons, student lists, and add teachers to the platform.
 
 # Technologies Used
-Frontend: HTML, CSS, JavaScript\n
-Backend: PHP\n
+Frontend: HTML, CSS, JavaScript
+Backend: PHP
 Database: MySQL
 
 # Installation
