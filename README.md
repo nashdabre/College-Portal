@@ -36,7 +36,7 @@ For Teachers/Administrators:
 # Contributing
 We welcome contributions to improve the College Portal Project. To contribute:
 
-Fork the repository and clone it locally.
-Create a new branch for your feature or bug fix.
-Commit your changes and push to your branch.
-Submit a pull request with a detailed description of your changes.
+1. Fork the repository and clone it locally.
+2. Create a new branch for your feature or bug fix.
+3. Commit your changes and push to your branch.
+4. Submit a pull request with a detailed description of your changes.
