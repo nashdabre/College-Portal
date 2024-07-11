@@ -5,11 +5,11 @@ An interactive web application developed for students and teachers to enhance le
 The College Portal Project is designed to streamline educational activities by providing a centralized platform for students and teachers. It facilitates access to learning resources such as exercises, notes, quizzes, and videos, while also empowering administrators with tools for managing educational content and user roles effectively.
 
 # Features
-Exercise: Students can access interactive exercises tailored to their courses.
-Notes: View and download course materials including lecture notes.
-Quiz: Take quizzes to assess understanding of course content.
-Videos: Watch instructional videos provided by teachers.
-Admin Panel: Teachers/administrators can manage notes, quizzes, videos, lessons, student lists, and add teachers to the platform.
+1. Exercise: Students can access interactive exercises tailored to their courses.
+2. Notes: View and download course materials including lecture notes.
+3. Quiz: Take quizzes to assess understanding of course content.
+4. Videos: Watch instructional videos provided by teachers.
+5. Admin Panel: Teachers/administrators can manage notes, quizzes, videos, lessons, student lists, and add teachers to the platform.
 
 # Technologies Used
 Frontend: HTML, CSS, JavaScript
