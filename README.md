@@ -13,7 +13,9 @@ The College Portal Project is designed to streamline educational activities by p
 
 # Technologies Used
 Frontend: HTML, CSS, JavaScript
+
 Backend: PHP
+
 Database: MySQL
 
 # Installation
@@ -26,6 +28,7 @@ Install dependencies and configure your web server as needed.
 For Students:
   1. Log in to access exercises, notes, quizzes, and videos.
   2.  Participate in quizzes and exercises to enhance learning.
+
 For Teachers/Administrators:
  1. Log in to the admin panel to manage educational content.
  2. Upload notes, quizzes, and videos for student access.
